@@ -4,7 +4,7 @@ const App = ()=>
 
     <>
    <h1>Hi</h1>
-   <h2>HE</h2>
+   <h2>Hello</h2>
     </>
   )
 }
